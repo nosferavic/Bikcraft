@@ -13,7 +13,12 @@
 @import url("./home/tecnologia.css");
 @import url("./home/parceiros.css");
 @import url("./home/depoimento.css");
+
+/* seguros */
 @import url("./seguros/seguros.css");
 
 /* Bicicletas */
 @import url("./bicicletas/bicicletas-lista.css");
+
+/* termos */
+@import url("./termos/termos.css");
